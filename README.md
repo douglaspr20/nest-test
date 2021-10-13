@@ -58,11 +58,11 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-<p align="center">To run the project correctly you must create an .env file in the root of the project which has the following variables</p>
+## Create This Variabels in file .env
+
 ```bash
 $ PORT=
 $ MONGODB_URI=
 ```
-<p>
-  when doing the query they have to use the api / v1 prefix
-</p>
+
+<p>when doing the query they have to use the api / v1 prefix</p>
